@@ -1,0 +1,590 @@
+{
+   "Toán học":{
+      "Dễ":[
+         {
+            "question":"Pytago là nhà toán học người Hy Lạp ? ",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Tổng 3 góc của 1 tam giác luôn bằng 180 độ ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Hình thang là hình có 2 đường chéo song song nhau ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Logarit cơ số -1 bằng 0 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Làm tròn 3.197654 đến chữ số thập phân thứ 3 là 3.197 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         }
+      ],
+      "Vừa":[
+         {
+            "question":"Tìm y, biết y * 5 = 45. Vậy y = 8",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Có 40 học sinh, 1/5 số học sinh này là: 7",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Khi viết tổng 4+4+4 thành phép nhân thì hai thừa số lần lượt là: 5 và 4",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Kết quả của: 40 – 7 x 5 = 165 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Kết quả của: 20 : 4 + 1 = 7 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         }
+      ],
+      "Khó":[
+         {
+            "question":"Issac Newton nổi tiếng nhờ phát minh ra calculus vào cuối thế kỷ 1660 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Euclid là cha đẻ của giải tích ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Giáo sư Ngô Bảo Châu đạt giải thưởng toán học Fields vào năm 2010 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Carl Friedrich Gauss là nhà toán học người nước Pháp ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Georg Cantor là nhà toán học người Nga sáng tạo ra số cardinal ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         }
+      ]
+   },
+   "Điện ảnh":{
+      "Dễ":[
+         {
+            "question":"Sự im lặng của bầy cừu 1991 là bộ phim được chuyển thể từ tiểu thuyết cùng tên ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Diễn viên Tom Hanks sinh vào năm 1955",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"“Catch me if you can” là bộ phim duy nhất có sự hợp tác giữa Dicaprio và Tom hanks?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Leonardo DiCaprio đã đạt 3 giải Oscar nam diễn viên xuất sắc nhất cho đến năm 2022 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Christopher Nolan là đạo diên của phim “Instertella”",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         }
+      ],
+      "Vừa":[
+         {
+            "question":"Giải thưởng Viện Hàn lâm (Oscar) lần đầu tiên được trao vào năm 1928 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Bộ phim titanic đã giành được 13 giải Oscar ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"“Cha đẻ” của chuột Mickey đã đoạt tổng cộng 22 giải Oscar trong suốt sự nghiệp của mình ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"“Forrest Gump” lần đầu ra mắt khán giả vào năm 1995 ? ",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Bộ phim “Shawshank Redemption” là bộ phim đạt điểm Imdb cao nhất mọi thơi đại ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         }
+      ],
+      "Khó":[
+         {
+            "question":"Kathryn Bigelow  là người phụ nữ đầu tiên nhận giải Oscar danh cho “ Đạo diễn xuất sắc nhất”",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Giải Oscar cho nữ diễn viên chính xuất sắc nhất lần đầu được trao vào năm 1926 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"HelpBurn giành nhiều chiến thắng nhất ở hạng mục “ Nữ diễn viên chính xuất sắc” tại Oscar ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Bộ phim “La La Land” là bộ phim về thể loại nhạc kịch ? ",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Emma Stone đã nhận giải Oscar qua bộ phim “La La Land” ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         }
+      ]
+   },
+   "Công nghệ":{
+      "Dễ":[
+         {
+            "question":"Internet được ra đời vào năm 1969 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Việt nam hòa mạng Internet vào năm 1997 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Email được tạo ra bởi Ray Tomlinson vào năm 1972 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Giao thức TCP/IP được tất cả máy tính sử udngj trên mạng ARPANET vào năm 1983 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Internet bùng nổ với sự xuất hiện của World Wide Web ( WWW) vào năm 1999 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         }
+      ],
+      "Vừa":[
+         {
+            "question":"Việt nam triển khai thử nghiệm có giới hạn khu vực mạng 4G vào năm 2014 ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"4G được hiểu là tiêu chuẩn tương lai của các thiết bị không dây ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Mạng 4G hiện hoạt động trên băng tần LTE ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Dòng cận 4G gồm: LTE, WIMAX được gọi là tiền 4G ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"LTE chính là 4G",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         }
+      ],
+      "Khó":[
+         {
+            "question":"Mạng 5G có tốc độ nhanh hơn khoảng 10 lần mạng 4G hiện nay ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"5G hoạt động ở các băng tần 28, 38, và 60Hz ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Theo lý thuyết tốc độ 5G có thể đạt đến 10Gbp/s",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"Mạng 5G không thể đi xuyên qua tường, mái nhà ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         },
+         {
+            "question":"5G có thể kết hợp cùng với Internet of Things (IoT) ?",
+            "answer1":"Dung",
+            "answer2":"Sai",
+            "correct":"Dung"
+         }
+      ]
+   },
+   "Bóng đá": {
+      "Dễ": [
+         {
+            "question":"Đội bóng nào đã giành cúp World Cup 2018 ?",
+            "answer1":"Pháp",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Cristiano Ronaldo bắt đầu sự nghiệp tại câu lạc bộ Manchester United ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Lionel Messi là cầu thủ gốc quốc gia Brazil ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Câu lạc bộ Real Madrid đã giành nhiều chức vô địch UEFA Champions League nhất ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Tạp chí FIFA tổ chức giải thưởng Ballon d'Or ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         }
+      ],
+      "Vừa": [
+         {
+            "question":"Nhà vô địch World Cup 2014 là đội bóng Argentina ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Cristiano Ronaldo là người ghi bàn nhiều nhất trong lịch sử Champions League ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Người dẫn đầu danh sách ghi bàn tại Premier League mùa giải 2022-2023 là Mohamed Salah ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Đội bóng Argentina đã giành chiến thắng tại Copa America 2021 ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Cầu thủ Robert Lewandowski đã giành Quả bóng vàng năm 2020 ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         }
+      ],
+      "Khó": [
+         {
+            "question":"Đội bóng Sevilla có nhiều chức vô địch UEFA Europa League nhất ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Người chiến thắng giải thưởng FIFA World Player năm 2009 là Cristiano Ronaldo ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Câu lạc bộ Manchester City giành chức vô địch Premier League với số điểm cao nhất ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Cầu thủ James Rodríguez ghi bàn thắng đẹp nhất trong lịch sử World Cup 2014 ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Cầu thủ Wayne Rooney ghi bàn nhiều nhất trong lịch sử các trận derby Manchester ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         }
+      ]
+   },
+   "Sinh học": {
+      "Dễ": [
+         {
+            "question":"Cấu trúc cơ bản của tế bào bao gồm màng tế bào, tế bào chất và nhân ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Hệ tuần hoàn của con người bao gồm tim và phổi ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Nhân tế bào chứa đựng thông tin di truyền dưới dạng DNA ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Cây xanh sử dụng ánh sáng để thực hiện quá trình quang hợp ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Tế bào gốc có khả năng tự động phân chia ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         }
+      ],
+      "Vừa": [
+         {
+            "question":"Kích thước của một tế bào trung bình khoảng 100-300 micromet ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Quá trình tổng hợp protein diễn ra ở ribosome ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"mRNA giúp truyền thông tin từ DNA đến ribosome ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Sinh sản vô tính ở thực vật thường diễn ra qua cơ chế nhân bản tế bào ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Hồng cầu là loại tế bào không có nhân ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         }
+      ],
+      "Khó": [
+         {
+            "question":"Có hai loại axit nucleic chính trong tế bào ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Gen quy định tính trạng màu mắt ở con người là Gen BRCA1 ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Quá trình hô hấp tế bào là nguồn cung cấp năng lượng chủ yếu cho tế bào ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"DNA polymerase chịu trách nhiệm cho quá trình nhân bản DNA ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Tế bào bạch cầu có khả năng tạo ra nhiều loại tế bào khác nhau trong cơ thể ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         }
+      ]
+   },
+   "Địa lý": {
+      "Dễ": [
+         {
+            "question": "Thủ đô của Pháp là Paris ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Đúng"
+         },
+         {
+            "question": "Sông dài nhất thế giới là Sông Amazon ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Sai"
+         },
+         {
+            "question": "Lục địa lớn nhất thế giới là lục địa Á ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Đúng"
+         },
+         {
+            "question": "Quốc gia có diện tích lớn nhất thế giới là Canada ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Sai"
+         },
+         {
+            "question": "Đại dương lớn nhất thế giới là Đại Tây Dương ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Sai"
+         }
+      ],
+      "Vừa": [
+         {
+            "question": "Cực Bắc của Trái Đất là Bắc Cực ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Đúng"
+         },
+         {
+            "question": "Vùng đất thấp Amazon nằm ở Nam Mỹ ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Đúng"
+         },
+         {
+            "question": "Mặt trời mọc ở hướng Tây ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Sai"
+         },
+         {
+            "question": "Sahara là sa mạc lớn nhất thế giới ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Đúng"
+         },
+         {
+            "question": "Châu Á là châu lục có số lượng quốc gia ít nhất ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Sai"
+         }
+      ],
+      "Khó": [
+         {
+            "question": "Núi Everest là đỉnh núi cao nhất thế giới ?",
+            "answer1": "Đúng",
+            "answer2": "Sai",
+            "correct": "Đúng"
+         },
+         {
+            "question":"Nhật Bản là quốc gia có nhiều núi lửa nhất trên thế giới ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Tất cả các quốc gia ở châu Phi đều nằm ở Nam bán cầu ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Sai"
+         },
+         {
+            "question":"Sông Nile dài nhất chảy qua châu Phi ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         },
+         {
+            "question":"Hồ Caspian là hồ lớn nhất thế giới về diện tích ?",
+            "answer1":"Đúng",
+            "answer2":"Sai",
+            "correct":"Đúng"
+         }
+      ]
+   }
+}
